@@ -1,11 +1,108 @@
 {
-  "timestamp": "2025-04-11T09:21:37.628Z",
+  "timestamp": "2025-04-11T09:22:32.088Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 16,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Layout",
+      "type": "layout",
+      "status": "pending",
+      "description": "Main layout wrapper with RTL support for Hebrew language, including header, footer, and metadata configuration"
+    },
+    {
+      "name": "Header",
+      "type": "navigation",
+      "status": "pending",
+      "description": "RTL-optimized header with logo, navigation menu, and booking CTA button"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Bold, visually striking hero section with headline, description, and primary CTA"
+    },
+    {
+      "name": "AboutSection",
+      "type": "content",
+      "status": "pending",
+      "description": "Section highlighting the café's experience, expertise and unique value proposition"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Showcase of the café's key services and offerings with visual elements"
+    },
+    {
+      "name": "BookingSection",
+      "type": "booking",
+      "status": "pending",
+      "description": "Interactive booking form with RTL support and validation"
+    },
+    {
+      "name": "GallerySection",
+      "type": "gallery",
+      "status": "pending",
+      "description": "Visual showcase of the café's ambiance, food, and drinks"
+    },
+    {
+      "name": "LocationSection",
+      "type": "location",
+      "status": "pending",
+      "description": "Map and contact information section with business hours"
+    },
+    {
+      "name": "CTASection",
+      "type": "cta",
+      "status": "pending",
+      "description": "Final call-to-action section to drive bookings"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "RTL-optimized footer with navigation, contact info, and social links"
+    },
+    {
+      "name": "MenuPage",
+      "type": "page",
+      "status": "pending",
+      "description": "Dedicated page showcasing the café's menu offerings"
+    },
+    {
+      "name": "BookingPage",
+      "type": "page",
+      "status": "pending",
+      "description": "Dedicated booking page with extended form functionality"
+    },
+    {
+      "name": "ContactPage",
+      "type": "page",
+      "status": "pending",
+      "description": "Dedicated contact page with form and expanded contact information"
+    },
+    {
+      "name": "Button",
+      "type": "component",
+      "status": "pending",
+      "description": "Reusable button component with variants and RTL support"
+    },
+    {
+      "name": "Card",
+      "type": "component",
+      "status": "pending",
+      "description": "Reusable card component for displaying content blocks"
+    },
+    {
+      "name": "SectionHeader",
+      "type": "component",
+      "status": "pending",
+      "description": "Reusable section header with title, subtitle, and decorative elements"
+    }
+  ],
   "repoName": "webis-site-byt-kph-gma-1744363246719"
 }
